@@ -1,4 +1,4 @@
-# 📊 E-Commerce Product Analysis (SQL Project)
+# 📊 E-Commerce Product Analysis (SQL Project | Day 7–10)
 
 ## 📌 Project Overview
 This project analyzes e-commerce product data using MySQL to uncover pricing strategy, product distribution patterns, and rating performance.  
@@ -101,13 +101,12 @@ A balanced strategy focusing on both volume growth and margin optimization would
 
 ## 📂 Project Structure
 ```
-ecommerce-sql-analysis/
+sql-project/
 │
-├── schema.sql
-├── analysis_queries.sql
-├── dataset.csv
-├── README.md
-└── screenshots/
+├── schema.sql              → Table structure definition
+├── analysis_queries.sql    → Core business analysis queries
+├── screenshots/            → Query result screenshots
+└── readme.md
 ```
 
 ---
